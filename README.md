@@ -9,5 +9,5 @@ Run Locally
 
 Endpoints
 ---------
-localhost:3000                => Displays app.html
-localhost:3000/diagnostic     => Returns the git sha of the code been run
+* localhost:3000                => Displays app.html
+* localhost:3000/diagnostic     => Returns the git sha of the code been run
